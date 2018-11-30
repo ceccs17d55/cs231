@@ -53,11 +53,11 @@ int main() {
 }
 /*
 Output
-[?1h=$ ./08_quicksort_recursive 
+[?1h=$ ./07_quicksort_iterative 
 [?1l>Enter size of the array : 5
 Enter array elements
 28163    
-81 
+8
 1
 6
 3

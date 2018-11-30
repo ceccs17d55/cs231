@@ -73,3 +73,9 @@ int main() {
 	
 	return (0);
 }
+/*
+Output
+[?1h=$ ./21_representation_of_arithmetic_expressions_linked_list 
+[?1l>Enter arithmatic expression : a+b
+Entered experssion : a+b
+*/

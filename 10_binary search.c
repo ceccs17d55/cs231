@@ -43,3 +43,22 @@ int main()
    return 0;  
 }
 
+/*
+Output
+[?1h=$ ./10_binary_search 
+[?1l>Enter number of elements : 5
+Enter elements
+2
+6
+1
+8
+3
+Sorted array
+1
+2
+3
+6
+8
+Enter element to search : 6
+Element found at position 4
+*/

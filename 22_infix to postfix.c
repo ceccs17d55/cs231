@@ -1,3 +1,8 @@
+// Visakh Sebastian
+// s3 d
+// 55
+
+
 #include <stdio.h>
 
 int instackPriority(char symbol) {

@@ -76,3 +76,66 @@ int main() {
 		}
 	} while(choice != '4');
 }
+/*
+Output
+[?1h=$ ./28_circular_queue_using_array 
+[?1l>
+	Queue using array
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice : 1
+Enter data to be entered : 1
+
+	Queue using array
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice : 1
+Enter data to be entered : 2
+
+	Queue using array
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice : 1
+Enter data to be entered : 3
+
+	Queue using array
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice : 4 5
+
+	Queue using array
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice : 3
+1:2:3:-:-:-:-:-:-:-:
+	Queue using array
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice : 2
+
+	Queue using array
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice : 3
+-:2:3:-:-:-:-:-:-:-:
+	Queue using array
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice : 4
+*/

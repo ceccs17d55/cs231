@@ -88,3 +88,9 @@ int main() {
   }
   printf("Final result : %d\n", operandStack[0]);
 }
+/*
+Output
+[?1h=$ ./24_infix_expression_evaluvation 
+[?1l>Enter the infix expression : 1+2*3
+Final result : 7
+*/

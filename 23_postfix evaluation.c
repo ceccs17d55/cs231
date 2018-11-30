@@ -52,3 +52,9 @@ int main() {
   }
   printf("%d\n", stack[top]);
 }
+/*
+Output
+[?1h=$ ./23_postfix_expression_evaluvation 
+[?1l>Enter the postfix expression : 12+
+3
+*/

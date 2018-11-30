@@ -1,3 +1,8 @@
+// Visakh Sebastian
+// s3 d
+// 55
+
+
 #include <stdio.h>
 #include <stdlib.h>
 int power(int base, int exponent) {

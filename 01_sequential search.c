@@ -36,8 +36,8 @@ int main()
 
 
 /*
-output
 
+Output
 
 [?1h=$ ./01_sequential_search 
 [?1l>Enter number of elements : 5

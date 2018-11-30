@@ -37,3 +37,22 @@ int main()
  
   return 0;
 }
+
+/*
+
+Output
+[?1h=$ ./03_insertion_sort 
+[?1l>Enter size of the array : 5
+Enter array
+2
+8
+1
+6
+3
+Sorted array
+1
+2
+3
+6
+8
+*/

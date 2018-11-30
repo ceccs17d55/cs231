@@ -1,3 +1,8 @@
+// Visakh Sebastian
+// s3 d
+// 55
+
+
 #include <stdio.h>
 #define size 10
 int queue[size], front, rear;
